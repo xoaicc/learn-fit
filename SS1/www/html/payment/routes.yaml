@@ -1,0 +1,15 @@
+app_lucky_number:
+    path: /lucky/number
+    controller: App\Controller\LuckyController::number
+    
+app_page_about:
+    path: /about.html
+    controller: App\Controller\PageController::about
+
+app_page_product_list:
+    path: /products
+    controller: App\Controller\ProductController::product_list
+    
+app_page_product_detail:
+    path: /product/{$id}
+    controller: App\Controller\ProductController::product_detail(int $id)

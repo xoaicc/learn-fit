@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>WPR</title>
+        <script src="equations.js" defer></script>
+    </head>
+
+    <body>
+        <h1>Quadratic Equation Solver</h1>
+        <hr>
+        <div>
+            <input type="number" id="a" name="x2"> x^2 + 
+            <input type="number" id="b" name="x"> x + 
+            <input type="number" id="c" name="n"> = 0 
+            <br><br>
+        </div>
+        <button id="submit">Solve</button>
+        <p id="result"> </p>
+
+        
+        <style>
+            body {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            h1 {
+                text-align: center;
+                padding: 10px 0;
+                margin: 0;
+                border-bottom: 2px solid black ;
+            }
+            input {
+                text-align: center;
+            }
+            p {
+                color: red;
+                font-weight: bold;
+            }
+        </style>
+
+        <script>
+            function performResultEquation() {
+                const aInput = document.querySelector("#a");
+                const a = parseFloat(aInput.value);
+                const bInput = document.querySelector("#b");
+                const b = parseFloat(bInput.value);
+                const cInput = document.querySelector("#c");
+                const c = parseFloat(cInput.value);
+
+                const result = quadraticEquation(a, b, c);
+                const resultValue = document.querySelector("#result");
+                resultValue.textContent = result;
+            }
+            const solveBtn = document.querySelector("#submit");
+            solveBtn.addEventListener("click", performResultEquation);
+        </script>
+    </body>
+</html>

@@ -1,0 +1,84 @@
+body {
+    background-color: #d0e6df;
+    color: #777e8c;
+    font-family: 'Open Sans', sans-serif;
+    user-select: none;
+    -webkit-user-select: none;
+
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+/* ----------- Over here! ---------- */
+.hidden {
+    display: none !important;
+}
+/* ------------------ ------------------ */
+.flashcard-box {
+    padding: 25px;
+}
+
+.flashcard {
+    height: 300px;
+    width: 275px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 8px;
+
+    font-size: 2.5em;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-sizing: border-box;
+}
+
+.word {
+    background: #66ccff;
+    color: white;
+    box-shadow: 0 8px #00aaff;
+}
+
+.definition {
+    background: white;
+    color: black;
+    box-shadow: 0 8px #ffcc66;
+}
+
+#main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#main .status {
+    background-color: #b6d9d9;
+    border-radius: 10px;
+    color: #607d8b;
+    margin-top: 1em;
+    padding: 0.5em;
+    width: 275px;
+    text-align: center;
+
+    box-sizing: border-box;
+}

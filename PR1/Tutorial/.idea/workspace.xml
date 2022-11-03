@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdaab98c-7b99-455e-aa2e-9c4627bebee6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/DSATutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut05/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/ArrayListApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLListApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final Project/asg1-starterpack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/libraries/javaparser_core_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/libraries/t3_utils.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/Tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Hello.j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/ProgWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/javaparser-core-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/t3-utils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut05/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/AttrRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/DOpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/DomainConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/NotPossibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/OptType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/System.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/TextIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/collections/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/artifacts/JSP_Servlet_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/artifacts/JSP_Servlet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/jsp_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/jstl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/JSP-Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/src/main/java/com/example/jspservlet/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/src/main/java/com/example/jspservlet/dbconnect/DBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/src/main/java/com/example/jspservlet/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/src/main/java/com/example/jspservlet/servlet/ServletBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/src/main/webapp/addbook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/src/main/webapp/booklist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/JSP-Servlet/src/main/webapp/editbook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/MySQLConnect/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/MySQLConnect/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/MySQLConnect/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/MySQLConnect/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/MySQLConnect/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/MySQLConnect/MySQLConnect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/MySQLConnect/src/mysqlconnect/MySQLConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI/src/main/java/com/example/restful_api/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI/src/main/java/com/example/restful_api/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI/src/main/java/com/example/restful_api/repository/StudentRespository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/.jpb/persistence-units.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/DoMinhVuong_1901040247_SE2_Tut6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/src/main/java/com/example/restfulapi2/controller/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/src/main/java/com/example/restfulapi2/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/src/main/java/com/example/restfulapi2/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/src/main/java/com/example/restfulapi2/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/src/main/java/com/example/restfulapi2/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/RestfulAPI2/src/main/java/com/example/restfulapi2/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/.jpb/persistence-units.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/src/main/java/com/example/springboot/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/src/main/java/com/example/springboot/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/src/main/java/com/example/springboot/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/src/main/resources/templates/employeeAdd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/src/main/resources/templates/employeeDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/src/main/resources/templates/employeeList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot/src/main/resources/templates/employeeUpdate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot2/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot2/src/main/resources/static/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot2/src/main/resources/static/images/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot2/src/main/resources/static/images/employee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot2/src/main/resources/static/images/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot2/src/main/resources/templates/_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot2/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot3/src/main/java/com/example/springboot/controller/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot3/src/main/java/com/example/springboot/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot3/src/main/java/com/example/springboot/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SE2/Tutorial/SpringBoot3/src/main/resources/templates/companyDetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/libraries/mysql_connector_java_8_0_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/MySQLConnect.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/src/mysqlconnect/MySQLConnect.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="26oqryCjJzPLiiMrf13cTqmOP50" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdaab98c-7b99-455e-aa2e-9c4627bebee6" name="Changes" comment="" />
+      <created>1648100489282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648100489282</updated>
+      <workItem from="1648100491734" duration="32000" />
+      <workItem from="1648132652439" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

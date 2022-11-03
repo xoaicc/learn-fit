@@ -1,0 +1,87 @@
+body {
+    margin: 0px;
+    max-width: 1280px;
+}
+h1, h2, h3, h4, h5 {
+    margin: 0;
+    font-weight: unset;
+}
+/*Header*/
+#Header {
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+#Header h1 {
+    margin: 0px auto;
+    padding: 200px 0 160px 0;
+    text-align: center;
+    max-width: 780px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    font-weight: normal;
+    color: white;
+}
+#Face {
+    display: block;
+    margin: auto;
+    height: 100px;
+    border-radius: 100%;
+    border: 1px solid white;
+}
+#Profile {
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 24px;
+    font-size: 18px;
+    color: rgb(51, 51, 51);
+    text-align: center;
+}
+#Name {
+    font-weight: bold;
+}
+hr.divide {
+    margin-top: 10px;
+    width: 180px;
+    border-top: 2px solid #e6e6e6;
+}
+/*Body*/
+#Body {
+    margin: 150px 0;
+}
+.Content {
+    width: 66.67%;
+    margin: 0 auto;
+}
+.Index, #Body h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+.Index {
+    margin-bottom: -47px;
+    width: 13.54%;
+    text-align: right;
+    color: rgba(0, 0, 0, 0.25);
+}
+#Body h2 {
+    color: rgb(51, 51, 51);
+}
+#Body h5, p {
+    margin: 20px 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgb(51, 51, 51);
+}
+#Body a {
+    color: #42b4d6;
+    text-decoration: none;
+}
+#Body a:hover {
+    text-decoration: underline;
+}
+.Space-1 {
+    height: 60px;
+}
+.Space-2 {
+    height: 120px;
+}

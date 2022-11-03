@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add words</title>
+</head>
+
+<body>
+  <form id="word-form">
+    <div>
+      <label for="word">Enter the new word:</label>
+      <input name="word" id="word">
+    </div>
+    <div>
+      <label for="definition">Enter its definition:</label>
+      <input name="definition" id="definition">
+    </div>
+    <button id="submit">Add</button>
+  </form>
+  <button id="delete">Delete</button>
+  <div class="status"></div>
+  <script>
+    const wordForm = document.querySelector("#word-form");
+    wordForm.addEventListener("submit", (event) => {
+      event.preventDefault();
+
+      const word = document.querySelector("#word").value;
+      const definition = document.querySelector("#definition").value;
+
+      const requestBody = {
+        word: word,
+        definition: definition
+      }
+
+      const path = "https://wpr-quiz-api.herokuapp.com/words";
+      fetch(path, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(requestBody)
+      }).then((response) => response.json())
+        .then((wordAndDefinition) => {
+          console.log(`added: ${wordAndDefinition.word}-->${wordAndDefinition.definition}`);
+        })
+    });
+
+    const deleteBtn = document.querySelector("#delete");
+    deleteBtn.addEventListener("click", () => {
+      const word = document.querySelector("#word").value;
+      const path = `https://wpr-quiz-api.herokuapp.com/words/${word}`;
+      fetch(path, {
+        method: "DELETE",
+        headers: {
+          "Content-Type": "application/json"
+        }
+      }).then(console.log);
+    })
+  </script>
+</body>
+
+</html>

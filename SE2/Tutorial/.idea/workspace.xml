@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6fc8b50-5109-42de-af3b-b5c02d5cac0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/simple/DemoGetChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/simple/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/simple/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/simple/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/tree/BottomUpTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/tree/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/tree/TopDownTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/tree/bottomup/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut11/tree/topdown/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut12/Boa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut12/BoaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut12_03_1901040247.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut01/Exe4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut02/Exe4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut04/Exe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut05/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut05/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/ArrayList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/ArrayList/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/ArrayList/ArrayListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/ArrayList/ArrayListApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/Polynomial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/SLList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/SLList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/SLListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/SLListApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/SLNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut06/SLList/SLNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut08/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut08/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut08/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut08/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut08/Exe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut08/Exe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example1/ArrayTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example1/ArrayTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example1/ArrayTreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example1/ArrayTreeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example2/ArrayBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example2/ArrayBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example2/ArrayBinaryTreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA/Tutorial/src/Tut09/Example2/ArrayBinaryTreeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR1/Final Project/asg1-starterpack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040033/CoffeeTinGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040033/CoffeeTinGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040034/CoffeeTinGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040034/CoffeeTinGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040070/CoffeeTinGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040070/CoffeeTinGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040185/CoffeeTinGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040185/CoffeeTinGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040247/CoffeeTinGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/a1_1901040247/CoffeeTinGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/a1_sid/CoffeeTinGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/a1_sid/CoffeeTinGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/AttrRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/AttrRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/DOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/DOpt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/DomainConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/DomainConstraint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/NotPossibleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/NotPossibleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/OptType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/OptType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/TextIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/TextIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Project/src/utils/collections/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Project/src/utils/collections/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/Tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/CoffeeTinGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/PR2 Tut09.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Rudeus x Sylphy.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut01/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/ProgWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/ProgWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/template" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut03/template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut05/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut05/Math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/a/GreetingConversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/a/GreetingConversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/a/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/a/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/a/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/a/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/b/GreetingConversation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/b/GreetingConversation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/b/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/b/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/b/PhoneOwnerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut06/b/PhoneOwnerShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/a/GreetingConversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/a/GreetingConversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/b/GreetingConversation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/b/GreetingConversation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/b/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/b/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/b/PhoneOwnerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut07/b/PhoneOwnerShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/a/GreetingConversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/a/GreetingConversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/a/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/a/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/a/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/a/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/GreetingConversation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/GreetingConversation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/PhoneOwnerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut08/b/PhoneOwnerShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/a/GreetingConversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/a/GreetingConversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/a/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/a/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/a/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/a/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/GreetingConversation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/GreetingConversation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/PhoneOwnerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09/b/PhoneOwnerShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut09_B01_1901040247.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/a/GreetingConversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/a/GreetingConversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/a/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/a/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/a/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/Tut10/a/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/AttrRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/AttrRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/DOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/DOpt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/DomainConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/DomainConstraint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/NotPossibleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/NotPossibleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/OptType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/OptType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/TextIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/TextIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/collections/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PR2/Tutorial/src/utils/collections/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/libraries/mysql_connector_java_8_0_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/MySQLConnect.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE2Tutorial/MySQLConnect/src/mysqlconnect/MySQLConnect.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="272QdQi5r1ydfVPGn1DNh3XirTU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Tut09" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\learnFIT\SE2\Tutorial\src\Tut09" />
+      <recent name="X:\learnFIT\SE2\Tutorial\src\Tut10\" />
+      <recent name="X:\learnFIT\SE2\Tutorial\src\Tut10" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\learnFIT\SE2\Tutorial\src\Tut09" />
+      <recent name="X:\learnFIT\SE2\Tutorial\src" />
+      <recent name="X:\learnFIT\SE2\Tutorial\src\Tut07" />
+      <recent name="X:\learnFIT\SE2\Tutorial\Tut07" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Tut12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BoaTest">
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut10.MandKind.Demo" />
+      <module name="SE2Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut10.MandKind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut09.strategy.Demo" />
+      <module name="SE2Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut09.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut09.chain_of_responsibility.Demo" />
+      <module name="SE2Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut09.chain_of_responsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SE2Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tut12" />
+      <option name="MAIN_CLASS_NAME" value="Tut12.BoaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SE2Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tut12" />
+      <option name="MAIN_CLASS_NAME" value="Tut12.HelloWorldTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BoaTest" />
+        <item itemvalue="JUnit.HelloWorldTest" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo (5)" />
+        <item itemvalue="Application.Demo (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6fc8b50-5109-42de-af3b-b5c02d5cac0e" name="Changes" comment="" />
+      <created>1648515788285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648515788285</updated>
+      <workItem from="1648515789427" duration="1081000" />
+      <workItem from="1648775446041" duration="598000" />
+      <workItem from="1648951382407" duration="9824000" />
+      <workItem from="1649118856784" duration="20000" />
+      <workItem from="1649118884373" duration="4878000" />
+      <workItem from="1649123839252" duration="54000" />
+      <workItem from="1649151004405" duration="6000" />
+      <workItem from="1649232500621" duration="3000" />
+      <workItem from="1649497827176" duration="1394000" />
+      <workItem from="1649573738170" duration="754000" />
+      <workItem from="1649580978820" duration="2576000" />
+      <workItem from="1649583696757" duration="7000" />
+      <workItem from="1650256053503" duration="1691000" />
+      <workItem from="1650260016061" duration="3000" />
+      <workItem from="1650295580628" duration="6593000" />
+      <workItem from="1650329634323" duration="7920000" />
+      <workItem from="1650355740714" duration="17000" />
+      <workItem from="1650357905674" duration="1479000" />
+      <workItem from="1650359997262" duration="2534000" />
+      <workItem from="1650362678136" duration="3322000" />
+      <workItem from="1650377572663" duration="2311000" />
+      <workItem from="1650390743659" duration="3061000" />
+      <workItem from="1650417372456" duration="1878000" />
+      <workItem from="1650445594358" duration="18000" />
+      <workItem from="1652747775540" duration="2717000" />
+      <workItem from="1652778471196" duration="55000" />
+      <workItem from="1652778601703" duration="593000" />
+      <workItem from="1652938890512" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Quiz</title>
+  <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16" />
+  <link href="https://fonts.googleapis.com/css?family=Pangolin:400,700|Proxima+Nova" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer="true"></script>
+</head>
+
+<body>
+
+  <header>
+
+    <section id="course-name">
+      <h2>WPR</h2>
+    </section>
+
+    <section id="mern-stack">
+      <h3><span class="stack">M</span><span class="stack">E</span><span class="stack">R</span><span class="stack">N</span></h3>
+    </section>
+
+  </header>
+
+  <article>
+
+    <section id="quiz-name">
+      <h1>HTML Quiz</h1>
+    </section>
+
+    <section id="introduction">
+      <div id="author"><p>By Minh Vuong</p></div>
+      
+      <h2>The Test</h2>
+      <p>
+        The test contains 10 questions and there is no time limit.
+        <br><br>
+        The test is not official, it's just a nice way to see how much you know, or don't know, about HTML.
+      </p>
+
+      <h2>Count Your Score</h2>
+      <p>
+        You will get 1 point for each correct answer. At the end of the Quiz, your total score will be displayed. Maximum score is 10 points.
+      </p>
+
+      <div id="start-quiz">
+        <h2>Start the quiz</h2>
+        <p>Good luck!</p>
+        <h4 id="button-1"><a href="#course-name">Start the HTML quiz ❯ </a></h4>
+      </div>
+    </section>
+
+    <section id="attempt-quiz" class="hidden">
+      <div id="attempts-block">
+      </div>
+
+      <div id="submit-quiz">
+        <h4 id="button-2"><a href="#course-name">Submit your answers ❯ </a></h4>
+      </div>
+    </section>
+
+    <section id="review-quiz" class="hidden">
+      <div id="result-block">
+      </div>
+
+      <div id="result-quiz">
+        <h2>Result:</h2>
+        <h3 id="score"></h3>
+        <p id="percent"></p>
+        <p id="comment"></p><br>
+        <h4 id="button-3"><a href="#course-name">Try again</a></h4>
+      </div>
+    </section>
+  </article>
+</body>
+</html>

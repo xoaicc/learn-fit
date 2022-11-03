@@ -1,0 +1,40 @@
+<main>
+    <div class="container">
+        <h1>New question</h1>
+        <form id="form-create" method="POST" action='/add/create'>
+            <div class="form-group">
+                <label for="text">Text</label>
+                <input type="text" name="text" value="" placeholder="Question text ..." />
+            </div>
+
+            <div class="form-group form-adding">
+                <label>Answers: </label>
+                <div class="answer">
+                    <input type="text" name="answers" value="" />
+                    <div>
+                        <input name="correctAnswer" type="radio" value="0" id="answer0" checked />
+                        <label for="answer0">correct</label>
+                    </div>
+                    <button type="button" class="btn btn-orange"><i class="fas fa-times"></i> Remove</button>
+                </div>
+                <div class="answer">
+                    <input type="text" name="answers" value="" />
+                    <div>
+                        <input name="correctAnswer" type="radio" value="1" id="answer1"/>
+                        <label for="answer1">correct</label>
+                    </div>
+                    <button type="button" class="btn btn-orange"><i class="fas fa-times"></i> Remove</button>
+                </div>
+                <div class="text-right">
+                    <button type="button" class="btn btn-blue"><i class="fas fa-plus"></i> Add</button>
+                </div>
+            </div>
+
+            <div class="actions save-new-ques">
+                <button class="btn btn-blue btn-large"><i class="fas fa-save"></i> Save</button>
+            </div>
+        </form>
+    </div>
+</main>
+
+<script src="/js/AddPage.js"></script>

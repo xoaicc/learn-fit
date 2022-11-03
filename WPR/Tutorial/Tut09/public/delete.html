@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcards: Delete word</title>
+
+    <style>
+        #main {
+            width: 500px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        form div {
+            margin: 15px 0;
+        }
+
+        form input {
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+    </style>
+
+    
+</head>
+<body>
+
+    <div id="main">
+        <h1>Delete word</h1>
+        <form>
+            <div>
+                <label for="word">Word: </label>
+                <input type="text" name="word" id="word">
+            </div>
+            
+            <div>
+                <input type="submit" value="Delete">
+            </div>
+        </form>
+    </div>
+    
+    <script defer>
+        async function onSubmit(event) {
+            event.preventDefault(); // prevent normal form submit
+
+            const word = document.querySelector('#word').value;
+
+            // using fetch - alert success when deleted
+            // function onResponse(response) {
+            //     if (response.status === 200) {
+            //         alert('Success!')
+            //     } 
+
+            //     if (response.status === 404) {
+            //         alert('404: Word not found!');
+            //     }
+            // }
+
+            // fetch('/words/'+word, {
+            //     method: 'DELETE', 
+            //     headers: {
+            //         'Content-Type': 'application/json'
+            //     }
+            // }).then(onResponse);
+
+            const response = await fetch('/words/'+word, {
+                method: 'DELETE', 
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.status === 200) {
+                alert('Success!')
+            } 
+
+            if (response.status === 404) {
+                alert('404: Word not found!');
+            }
+        }
+
+        const form = document.querySelector('form');
+        form.addEventListener('submit', onSubmit);
+
+    </script>
+
+</body>
+</html>

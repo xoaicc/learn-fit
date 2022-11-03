@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="t3-utils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Tut03/t3-utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,37 @@
+<main>
+    <div class="container">
+        <h1>All questions</h1>
+
+        <form method="GET" id="search" name="search-question-form" action="/search">
+            <input type="text" name="text" placeholder="Search..." />
+        </form>
+
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Question</th>
+                <th>Answer</th>
+                <th width="210">Actions</th>
+            </tr>
+
+            {{#each question}}
+
+            <tr>
+                <td>{{sum @index 1}}</td>
+                <td>{{this.text}}</td>
+                <td>{{findIndex this.answers this.correctAnswer}}</td>
+                <td>
+                    <a href="/edit/{{this._id}}" class="btn btn-blue"><i class="far fa-edit"></i> Edit</a>
+                    <a href="" data-id="{{this._id}}" class="btn btn-delete-question btn-orange"><i class="far fa-trash-alt"></i> Delete</a>
+                </td>
+            </tr>
+
+            {{/each}}
+            
+        </table>
+    </div>
+</main>
+
+<form method="POST" name="delete-question-form"> </form>
+
+<script src="/js/HomePage.js"></script>

@@ -1,0 +1,8 @@
+To run correctly this App, you need to change these symbol in txt files and testCases.html:
+
+1: (–) => (-)
+
+2: ("") => ('')
+
+Software: Visual Studio Code
+Last edition: 23/12/2021

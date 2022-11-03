@@ -1,0 +1,38 @@
+<main>
+    <div class="container">
+        <h1>Edit question</h1>
+        <form id="form-update" method="POST" action="/update/{{question._id}}?_method=PUT">
+            <div class="form-group">
+                <label for="text">Text</label>
+                <input type="text" name="text" value="{{question.text}}"/>
+            </div>
+
+            <div class="form-group form-editing" data-correct="{{question.correctAnswer}}" >
+                <label>Answers: </label>
+
+                {{#each question.answers}}
+
+                <div class="answer">
+                    <input type="text" name="answers" value="{{this}}" />
+                    <div>
+                        <input name="correctAnswer" type="radio" value="{{@index}}" id="{{question._id}}"/>
+                        <label for="{{question._id}}">correct</label>
+                    </div>
+                    <button type="button" class="btn btn-orange"><i class="fas fa-times"></i> Remove</button>
+                </div>
+
+                {{/each}}
+
+                <div class="text-right">
+                    <button type="button" class="btn btn-blue"><i class="fas fa-plus"></i> Add</button>
+                </div>
+            </div>
+
+            <div class="actions save-update-ques">
+                <button class="btn btn-blue btn-large"><i class="fas fa-save"></i> Save</button>
+            </div>
+        </form>
+    </div>
+</main>
+
+<script src="/js/EditPage.js"></script>

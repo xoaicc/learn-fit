@@ -1,0 +1,25 @@
+<h2>List all words</h2>
+<a href="/admin/words/add">Create new word</a>
+<table>
+    <thead>
+        <th>#</th>
+        <th>Word</th>
+        <th>Definition</th>
+        <th colspan="2">Actions</th>
+    </thead>
+    <tbody>
+        {{#each words}}
+            <tr>
+                <td></td>
+                <td>{{this.word}}</td>
+                <td>{{this.definition}}</td>
+                <td>
+                    <a href="/admin/words/update/{{this.word}}">Update</a>
+                </td>
+                <td>
+                    <a href="/admin/words/delete/{{this.word}}">Delete</a>
+                </td>
+            </tr> <!-- this = one word -->
+        {{/each}}
+    </tbody>
+</table>

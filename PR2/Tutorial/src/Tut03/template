@@ -1,0 +1,5 @@
+public class _ClassName_ {
+  public static void main(String[] args) {
+    System.out.println(_Getting_);
+  }
+}

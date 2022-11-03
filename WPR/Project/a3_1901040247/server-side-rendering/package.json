@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.1.2",
+    "path": "^0.12.7",
+    "routes": "^2.1.0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ass2-wpr",
+  "version": "1.0.0",
+  "description": "The 2nd project of WPR subject at Fit Hanu",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoaic/learnFIT.git#main"
+  },
+  "keywords": [
+    "Assignment",
+    "2"
+  ],
+  "author": "Do Minh Vuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoaic/learnFIT/issues"
+  },
+  "homepage": "https://github.com/xoaic/learnFIT/tree/main#readme"
+}
