@@ -1,8 +1,10 @@
-package asm2.a2_1901040247;
+package a2_1901040247;
 
 public class Enrolment {
-    private final Student student;
-    private final Module module;
+    private Student student;
+    private Module module;
+    private String studentID;
+    private String moduleCODE;
     private double internalMark;
     private double examMark;
     private char finalGrade;
@@ -12,12 +14,25 @@ public class Enrolment {
         this.module = module;
     }
 
+    public Enrolment(String studentID, String moduleCODE) {
+        this.studentID = studentID;
+        this.moduleCODE = moduleCODE;
+    }
+
     public Student getStudent() {
         return student;
     }
 
     public Module getModule() {
         return module;
+    }
+
+    public String getStudentID() {
+        return studentID;
+    }
+
+    public String getModuleCODE() {
+        return moduleCODE;
     }
 
     public void setInternalMark(double internalMark) {
