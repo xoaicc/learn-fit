@@ -105,6 +105,7 @@ public class CourseManProg {
         JFrame addF = new JFrame();
         JPanel header = new JPanel();
         JLabel title = new JLabel("Enter details");
+        header.setBackground(Color.cyan);
         header.add(title);
         addF.add(header, BorderLayout.NORTH);
 
@@ -330,6 +331,7 @@ public class CourseManProg {
             listF.setTitle("List Students");
             JPanel header = new JPanel();
             JLabel title = new JLabel("Student List");
+            header.setBackground(Color.cyan);
             header.add(title);
             listF.add(header, BorderLayout.NORTH);
 
@@ -386,6 +388,7 @@ public class CourseManProg {
             JPanel header = new JPanel();
             JLabel title = new JLabel("Initial report");
             header.add(title);
+            header.setBackground(Color.cyan);
             listF.add(header, BorderLayout.NORTH);
 
             JPanel body = new JPanel();
@@ -439,19 +442,17 @@ public class CourseManProg {
         listF.setVisible(true);
     }
 
-    public static DefaultTableModel buildTable(ResultSet rs)
-            throws SQLException {
-
+    public static DefaultTableModel buildTable(ResultSet rs) throws SQLException {
         ResultSetMetaData metaData = rs.getMetaData();
 
-        // names of columns
+        // column name of table
         Vector<String> columnNames = new Vector<>();
         int columnCount = metaData.getColumnCount();
         for (int column = 1; column <= columnCount; column++) {
             columnNames.add(metaData.getColumnName(column));
         }
 
-        // data of the table
+        // data of table
         Vector<Vector<Object>> data = new Vector<>();
         while (rs.next()) {
             Vector<Object> vector = new Vector<>();

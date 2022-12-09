@@ -1,4 +1,4 @@
-package a2_1901040247;
+package a2_1901040157;
 
 import java.sql.SQLException;
 
@@ -13,5 +13,16 @@ public class ElectiveModule extends Module {
 
     public String getDepartment() {
         return department;
+    }
+
+    @Override
+    public String toString() {
+        return "ElectiveModule{" +
+                "code:'" + getCode() + '\'' +
+                ", name:'" + getName() + '\'' +
+                ", semester:" + getSemester() +
+                ", credits:" + getCredits() +
+                ", department:'" + getDepartment() + '\'' +
+                '}';
     }
 }

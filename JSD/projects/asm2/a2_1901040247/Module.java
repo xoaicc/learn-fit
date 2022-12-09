@@ -20,10 +20,10 @@ abstract class Module {
         this.name = name;
         this.semester = semester;
         this.credits = credits;
-        checkCodeInDatabase();
+        checkDatabase();
     }
 
-    private void checkCodeInDatabase() {
+    private void checkDatabase() {
         String[] moduleCodeList = null;
         try {
             String sql = "SELECT Module_Code FROM MODULES;";

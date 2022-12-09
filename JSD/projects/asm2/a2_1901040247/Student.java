@@ -18,7 +18,7 @@ public class Student {
     Connection conn = DriverManager.getConnection("jdbc:sqlite:src/a2_1901040247/database.sqlite3");
 
     public Student(String name, int dob, String address, String email) throws SQLException {
-        checkCodeInDatabase();
+        checkDatabase();
         id = "S" + count.getAndIncrement();
         this.name = name;
         this.dob = dob;
@@ -26,7 +26,7 @@ public class Student {
         this.email = email;
     }
 
-    private void checkCodeInDatabase() {
+    private void checkDatabase() {
         String[] studentIDList = null;
         try {
             String sql = "SELECT Student_ID FROM STUDENTS;";
@@ -63,16 +63,5 @@ public class Student {
 
     public String getEmail() {
         return email;
-    }
-
-    @Override
-    public String toString() {
-        return "Student{" +
-                "id='" + id + '\'' +
-                ", name='" + name + '\'' +
-                ", dob=" + dob +
-                ", address='" + address + '\'' +
-                ", email='" + email + '\'' +
-                '}';
     }
 }

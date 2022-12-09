@@ -7,14 +7,4 @@ public class CompulsoryModule extends Module {
         super(name, semester, credits);
         generateCode(semester);
     }
-
-    @Override
-    public String toString() {
-        return "CompulsoryModule{" +
-                "code='" + getCode() + '\'' +
-                ", name='" + getName() + '\'' +
-                ", semester=" + getSemester() +
-                ", credits=" + getCredits() +
-                '}';
-    }
 }
